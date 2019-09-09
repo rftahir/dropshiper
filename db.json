@@ -1,13 +1,13 @@
   
 {
-  'id': 1,
-  'img_url': "http://placehold.it/1280x720"
+  "id": 1,
+  "img_url": "http://placehold.it/1280x720"
 },
 {
-  'id': 2,
-  'img_url': "http://placehold.it/1366x768"
+  "id": 2,
+  "img_url": "http://placehold.it/1366x768"
 },
 {
-  'id': 3,
-  'img_url': "http://placehold.it/720x480"
+  "id": 3,
+  "img_url": "http://placehold.it/720x480"
 }
